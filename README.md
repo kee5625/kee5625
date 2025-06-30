@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## About Me
 I'm Karthik — a full-stack software engineer passionate about exploring the tech world. Always improving, always creating, and always doing what I love!
 
 
